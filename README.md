@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArkajyotiPoddar
-- 🌱 I’m currently doing an internship Account Based Marketing
+- 🌱 I’m currently doing an internship in Account Based Marketing
 - 💞️ My favourite programming languages are Python and Java
 - 👀 You can check out the telegram bot I made for my university (t.me/jisustudentbot)
 - 📫 Email : arka.poddar02@gmail.com
